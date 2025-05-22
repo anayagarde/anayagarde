@@ -18,8 +18,6 @@ I'm a passionate software engineer with a focus on building intelligent, scalabl
 
 ---
 
-### 🛠️ Tech Stack
-
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Languages
